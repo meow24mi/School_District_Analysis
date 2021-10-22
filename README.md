@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Overview and Prpose of Project
-This analysis aims to provide a more accurate picture of student performance based on student body size, school type, and per capata spending. This revised analysis takes into consideration of the potential contamination of performance for the ninth grade class at Thomas High School, and as a result have excluded their test scores in the dataset. 
+This analysis aims to provide a more accurate picture of student performance based on student body size, school type, and per capita spending. This revised analysis takes into consideration of the potential contamination of performance for the ninth grade class at Thomas High School, and as a result have excluded their test scores in the dataset. 
 
 ## Results
 - District Summary
